@@ -1,0 +1,6 @@
+version "4.5"
+#include "zscript/WandererSoul.zs"
+#include "zscript/Ambusher.zs"
+#include "zscript/AllyHealer.zs"
+#include "zscript/TurretArachnotron.zs"
+#include "zscript/PatrolZombie.zs"

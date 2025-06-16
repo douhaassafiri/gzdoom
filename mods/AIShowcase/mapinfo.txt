@@ -1,0 +1,8 @@
+map DEMOMAP "AI Showcase Map"
+{
+    levelnum = 1
+    sky1 = "SKY1"
+    cluster = 1
+    par = 0
+    music = "D_RUNNIN"
+}
